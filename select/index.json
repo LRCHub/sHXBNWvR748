@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SUMMER SONG",
+  "base_artist": "YUI",
+  "createdAt": "2025-12-17T16:04:10.170742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "YACHT",
+      "has_synced": true,
+      "path": "select/01_Summer_Song_YACHT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/02_Summer_Song_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Summer Song)",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/03_(Summer_Song)_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/04_Summer_Song_YACHT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/05_Summer_Song_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/06_Summer_Song_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "Dave Brubeck",
+      "has_synced": true,
+      "path": "select/07_Summer_Song_Dave_Brubeck.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/08_Summer_Song_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I've Got A Dark Alley And A Bad Idea That Says You Should Shut Your Mouth (Summer Song)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/09_I've_Got_A_Dark_Alley_And_A_Bad_Idea_That_Says_You_Should_Shut_Your_Mouth_(Summe_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "California Summer Song",
+      "artist": "Tesla",
+      "has_synced": true,
+      "path": "select/10_California_Summer_Song_Tesla.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Summer Song (Yui Acoustic Version)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/11_Summer_Song_(Yui_Acoustic_Version)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Summer Song (Yui Acoustic Version)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/12_Summer_Song_(Yui_Acoustic_Version)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "Silent Sanctuary",
+      "has_synced": true,
+      "path": "select/13_Summer_Song_Silent_Sanctuary.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Summer Song",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/14_Summer_Song_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Summer song",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/15_Summer_song_Roy_Orbison.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SUMMER SONG ～YUI Acoustic Version～",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/16_SUMMER_SONG_~YUI_Acoustic_Version~_YUI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Summer Song",
+      "artist": "Chad & Jeremy",
+      "has_synced": true,
+      "path": "select/17_A_Summer_Song_Chad_&_Jeremy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUMMER SONG",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_01_SUMMER_SONG_YUI.txt"
+    }
+  ]
+}
